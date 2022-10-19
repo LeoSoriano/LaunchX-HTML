@@ -6,6 +6,7 @@ Los siguientes codigos muestran las etiquetas mas basicas de HTMl y los elemento
 
 # Etiquetas Basicas
 
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -78,6 +79,7 @@ Los siguientes codigos muestran las etiquetas mas basicas de HTMl y los elemento
 -------------------------------------------------------------------
 
 # Elementos Compuestos
+
 
 <!DOCTYPE html>
 <html lang="en">
